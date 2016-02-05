@@ -25,7 +25,7 @@
     "main": "./lib/flume-rpc",
     "engines": { "node": ">= 0.4.0" },
     "dependencies": {
-        "thrift" : ">= 0.7.1 || 0.7.0-recoset"
+        "thrift" : "0.8.0"
     },
     "scripts": {
         "test": "node test/flume_rpc_test.js"
